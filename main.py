@@ -20,7 +20,7 @@ playerX_1 = 200
 playerY_1 = 300 
 playerX_change_1 = 0
 
-image_2 = pygame.image.load('icons8-tank-48.png')
+image_2 = pygame.image.load('army.png')
 playerX_2 = 600
 playerY_2 = 300
 playerX_change_2 = 0
